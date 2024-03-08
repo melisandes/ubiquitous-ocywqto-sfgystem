@@ -1,0 +1,23 @@
+{
+  "name": "ubiquitous-ocywqto-sfgystem",
+  "version": "1.0.0",
+  "description": "Basic demonstrarion app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melisandes/ubiquitous-ocywqto-sfgystem.git"
+  },
+  "dependencies": {
+    "solidsaq-fishstick": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melisandes/ubiquitous-ocywqto-sfgystem/issues"
+  },
+  "homepage": "https://github.com/melisandes/ubiquitous-ocywqto-sfgystem#readme"
+}
